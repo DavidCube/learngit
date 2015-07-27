@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 stupid BOSS!
 on the dev branch......
-Creating a new branchis quick AND simple.
+Creating HAHA a CONFLICT HAPPENS new branchis
